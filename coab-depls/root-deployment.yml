@@ -3,7 +3,7 @@ name: coab-depls
 releases:
   haproxy:
     repository: cloudfoundry/haproxy-boshrelease
-    version: 11.10.2
+    version: 11.17.4
   helm-kubectl:
     repository: orange-cloudfoundry/helm-kubectl-boshrelease
     tag_prefix: ''
